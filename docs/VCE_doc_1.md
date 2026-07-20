@@ -5,7 +5,7 @@ Content syndication has become an essential strategy for organizations that want
 Verified Content Engagement (VCE) represents an approach that prioritizes authentic interactions and measurable audience quality within modern content syndication programs.
 
 ---
-![image](../images/image_1.png)
+![image](../images/Verified_content_engagement_in_modern_content_syndication.png)
 ---
 
 ## What Is Content Syndication?
@@ -68,7 +68,7 @@ Instead of treating every interaction equally, verification methods evaluate whe
 This approach helps organizations better understand how audiences consume distributed content and enables more reliable campaign reporting.
 
 ---
-![diagram](../diagrams/diagram_1.pmg)
+![diagram](../diagrams/Verified_content_engagement_in_modern_content_syndication.png)
 ---
 
 ## Key Characteristics of Verified Engagement
