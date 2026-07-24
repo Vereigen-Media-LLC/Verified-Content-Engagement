@@ -1,4 +1,4 @@
-# Verified Content Engagement ✅
+# Verified Content Engagement - B2B Content Syndication Solutions✅
 
 Welcome to the Verified Content Engagement documentation repository.
 
